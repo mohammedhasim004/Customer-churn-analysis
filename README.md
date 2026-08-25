@@ -34,12 +34,12 @@ analysis and predictions.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coder5omkar/Logistic-Regression-Customer-Churn-Prediction.git
+ gitclone [https://github.com/mohammedhasim004/Customer-churn-analysis.git)
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Logistic-Regression-Customer-Churn-Prediction
+   cd Customer-churn-analysis
    ```
 
 3. Open the notebook:
