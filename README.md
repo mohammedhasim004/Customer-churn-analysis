@@ -50,13 +50,7 @@ analysis and predictions.
 ---
 
 
-## 🤝 Acknowledgements
-- This project was inspired by IIT-B AI-ML program at Upgrad
-
-Developed as part of the ML-1 Module assignment required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
-
-This project is open source and available under the [MIT License](https://github.com/coder5omkar/Logistic-Regression-Customer-Churn-Prediction/blob/master/licence.txt).
 
 
-## Contact
-Created by [@in/omkaramale](https://github.com/coder5omkar) - feel free to contact me!
+
+
